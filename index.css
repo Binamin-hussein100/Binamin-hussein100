@@ -21,7 +21,7 @@ h1{
 
 .CONTAINER{
     width: 80%;
-    height: 100vh;
+    height: 120vh;
     border: ridge 15px white;
     border-radius: 10px;
 }
@@ -42,9 +42,30 @@ h2{
     box-shadow: 0px 0px 20px 20px grey;
     background-color: black;
     color: white;
-    width: 70%;
-    height: 65vh; 
-    margin-left: 205PX;
-    margin-top: 50px;
-    align-content: center;
+    width: 85%;
+    height: 75vh; 
+    margin-left: 110PX;
+    margin-top: 60px;
 }
+
+h3{
+    border-bottom: double;
+    color: white;
+    width: 15%;
+}
+
+button{
+    width: 35%;
+    height: 10vh;
+    box-shadow: 0px 0px 20px 20px grey;
+    background-color: black;
+    color: white;
+}
+
+.days{
+    margin-top: 50px;
+    position: relative;
+    left: 640px;
+    bottom: 430px;
+}
+
