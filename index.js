@@ -34,9 +34,27 @@ var p3Sunday = 486
 var p4Sunday = 486
 
 var shadeA = function(){
-    alert("Your production in Shed A  is " + p1Monday + "litres per day")
+    alert("Your production in Shed A  is " + p1Monday + " litres per day");
     
 }
-var shadeB =
 
+var shadeB = function(){
+    alert("YOUR PRODUCTION IN SHADE B IS " + p2Monday + " litres per day");
+}
+
+var shadeC = function(){
+    alert("YOUR PRODUCTION IN SHADE B IS " + p3Monday + " litres per day.");
+}
+ 
+var shadeC = function(){
+    alert("YOUR PRODUCTION IN SHADE C IS " + p3Monday + " LITRES PER DAY")
+}
+
+var shadeD = function(){
+    alert("YOUR PRODUCTION IN SHADE D IS " + p4Monday + " LITRES PER DAY")
+}
+
+var total = function(){
+    alert(p1Monday + p2Monday + p3Monday + p4Monday + " total in litres")
+}
 
