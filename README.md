@@ -1,28 +1,94 @@
+# Hi, I'm Binamin 👋
 
-# 💫 About Me:
-🔭 I’m currently working on being a full-stack Javascript Engineer <br>👯 I’m looking to collaborate on a SaaS Product.<br>🤝 I’m looking for help with infrastructure and design patterns.<br>🌱 I’m currently learning nodeJs<br>💬 Ask me about Full stack.<br>⚡ Fun fact: It's easy to win. All you need is to be in control.
+**Backend engineer moving into AI engineering.** I build APIs and microservices, ship them with Docker, Kubernetes and CI/CD, and now build retrieval and LLM systems in Python.
 
+- 🔭 **Building:** an AI assistant for Kenyan health-cover documents that grows from RAG to an API service to an evaluated agent. I'm building it in public over 12 weeks.
+- 🌱 **Learning:** AI engineering at Moringa School: evaluation, fine-tuning, LLMOps, agents and MCP
+- 🤝 **Open to:** backend, DevOps and AI engineering roles and collaborations
+- 💬 **Ask me about:** RAG pipelines, Node.js microservices, blue-green deployments on Kubernetes
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/binamin-hassan-0a7470208/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/codivorous) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=binamin-hussein100&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=binamin-hussein100&theme=nord&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=binamin-hussein100&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=binamin-hussein100&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/binamin-hassan-0a7470208/)
+[![X](https://img.shields.io/badge/@codivorous-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/codivorous)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=binamin-hussein100&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 AI engineering
+
+### [Custom-RAG](https://github.com/Binamin-hussein100/Custom-RAG): RAG from scratch, no framework
+`Python` `SentenceTransformers` `FAISS` `Gemini`
+
+- Full pipeline written by hand: PDF loading, overlapping chunks, embeddings, FAISS search, grounded generation
+- Answers cite their sources (`[Source N: file | page]`) and say "I don't know" when the documents don't cover the question
+- A SHA-256 manifest skips re-indexing unless the documents, embedding model or chunk settings change
+- CLI with `ingest`, `ask` and `chat` commands, and a smoke test for every module
+
+### [Multi_modal_RAG](https://github.com/Binamin-hussein100/Multi_modal_RAG): Q&A over PDFs with tables and images
+`Python` `unstructured` `LangChain` `Chroma` `OpenAI`
+
+- High-resolution layout parsing pulls text, tables (as HTML) and images out of PDFs
+- A vision model turns tables and images into searchable descriptions, so they can be retrieved like plain text
+- Deterministic chunk IDs make re-ingestion an update instead of a duplicate
+
+### [RAG_Langchain](https://github.com/Binamin-hussein100/RAG_Langchain): conversational RAG with memory
+`Python` `LangChain` `Chroma` `OpenAI`
+
+- Rewrites follow-up questions into standalone search queries using the chat history, so "what about the second one?" still retrieves the right passages
+
+---
+
+## ⚙️ Backend & DevOps
+
+### [E-commerce-API](https://github.com/Binamin-hussein100/E-commerce-API): Node.js microservices on Kubernetes
+`Node.js` `Express` `Prisma` `PostgreSQL` `Docker` `Kubernetes` `GitHub Actions` `Jest`
+
+- Six services (users, products, cart, orders, payments, notifications), each with its own PostgreSQL database through Prisma
+- Blue-green deployments on Kubernetes with liveness and readiness probes, resource limits and multiple replicas, behind an NGINX ingress that routes by path
+- GitHub Actions matrix pipeline builds and pushes a Docker image per service, tagged with the commit SHA, with Slack notifications on start, success and failure
+- JWT authentication with role-based middleware, unit-tested with Jest
+
+---
+
+## 🛠️ Tech stack
+
+**AI & data**<br>
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Chroma](https://img.shields.io/badge/Chroma-FF6446?style=for-the-badge&logoColor=white)
+
+**Backend**<br>
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+**DevOps**<br>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+<sub>Also worked with: JavaScript, TypeScript, React, Angular, Ruby on Rails, MySQL, SQLite, Postman.</sub>
+
+---
+
+## 📈 Now shipping
+
+| Week | Milestone | Status |
+|---|---|---|
+| 1 | Clean up repos, collect the Kenyan health-cover corpus | 🟡 In progress |
+| 2–3 | RAG v1 with a 50-question evaluation set, recall@k and faithfulness scores | ⏳ Next |
+| 4 | LoRA fine-tuned question router (English, Swahili, Sheng) and a live demo | ⏳ |
+| 6–9 | FastAPI + MCP service, LangGraph agent, CI eval gates, security hardening | ⏳ |
+
+---
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Binamin-hussein100&layout=compact&hide_border=true&theme=nord)
